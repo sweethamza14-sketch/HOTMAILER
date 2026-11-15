@@ -1,0 +1,6 @@
+{
+  "name": "Hotmailer",
+  "description": "A sleek modern email client inspired by Gmail and Hotmail featuring smart folders, rich composing, and signature @Hotmailer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
