@@ -82,7 +82,7 @@ app/src/main/java/com/example/
 ### Build & Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/sweethamza14-sketch/HOTMAILER>
    cd Hotmailer
    ```
 2. Build the debug APK:
